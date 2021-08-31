@@ -6,4 +6,5 @@ He can be contacted at @208darsan.
 Education:
 IIM Trichy
 
-
+skils:
+DevOps
